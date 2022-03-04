@@ -31,6 +31,11 @@ Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Luua es
 
 Üks tehniline oskus, mida õppisin ja endas arendasin: Wireframe ja andmebaasi kavandamine.
 ### Kaspar Vakkum
+Analüüsimine on tähtis osa projektist ja kõik ei ole ainult progemine, mõtlemis oskus on ka tähtis.
+
+Üks pehme oskus, mida õppisin ja endas arendasin on tiimitöö.
+
+Üks tehniline oskus, mida õppisin ja endas arenadasin on andmebaasi arusaamine ja kavandamine.
 ### Timo Pirn
 ### Janar Kuusk
 ### Kevin Zukker
