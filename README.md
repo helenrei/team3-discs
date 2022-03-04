@@ -46,17 +46,17 @@ issudele child issude lisamine
 
 githubi gruppi loomine
 ## Töövahendite loetelu
-digi tahvel
+Digi tahvel
 
-tava tahvel
+Tava tahvel
 
-draw io
+Draw io
 
 [Jira](https://janark.atlassian.net/jira/software/projects/KL/boards/1/roadmap)
 
 [Github](https://github.com/helenrei/team3-discs)
 
-slack
+Slack
 
 ## Aja plaaneerimine
 Aja planeerimise taktika oli see, et võtsime asju lihtsalt järjest ühekaupa kuni kõik sai lõpuni valmis.
