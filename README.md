@@ -46,17 +46,17 @@ issudele child issude lisamine
 
 githubi gruppi loomine
 ## Töövahendite loetelu
-Digi tahvel
+digi tahvel
 
-Tava tahvel
+tava tahvel
 
-Draw io
+draw io
 
-[Jira](https://janark.atlassian.net/jira/software/projects/KL/boards/1/roadmap)
+jira
 
-[Github](https://github.com/helenrei/team3-discs)
+github
 
-Slack
+slack
 
 ## Aja plaaneerimine
 Aja planeerimise taktika oli see, et võtsime asju lihtsalt järjest ühekaupa kuni kõik sai lõpuni valmis.
@@ -79,13 +79,15 @@ Analüüsimine on tähtis osa projektist ja kõik ei ole ainult progemine, mõtl
 
 Üks tehniline oskus, mida õppisin ja endas arenadasin on andmebaasi arusaamine ja kavandamine.
 ### Timo Pirn
-Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Joonistan ideed välja.
-
-Üks pehme oskus, mida õppisin ja endas arendasin: Tiimitöö, suhtlus.
-
-Üks tehniline oskus, mida õppisin ja endas arendasin: Jira.
 ### Janar Kuusk
 ### Kevin Zukker
+Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Projekti alguses kohe planeerima hakata
+
+Üks pehme oskus, mida õppisin ja endas arendasin: Tiimitöõ
+
+Üks tehniline oskus, mida õppisin ja endas arendasin: skeemide planeerimine ja valmistamine draw.io-s
+
+
 ### Lisbeth Raielo
 Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Projekti alguses korralik planeerimine kuidas asjab peaksid toimima ja väljanägema.
 
