@@ -52,9 +52,9 @@ tava tahvel
 
 draw io
 
-jira
+[Jira](https://janark.atlassian.net/jira/software/projects/KL/boards/1/roadmap)
 
-github
+[Github](https://github.com/helenrei/team3-discs)
 
 slack
 
