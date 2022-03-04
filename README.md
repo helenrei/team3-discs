@@ -15,6 +15,8 @@ Lisbeth Raielo
 ## Lühikokkuvõte töökäigust
 üld plaan
 
+https://janark.atlassian.net/jira/software/projects/KL/boards/1
+
 ![ScreenShot](/pildid/diski%20rendisüsteemi%20üldplaan%20drawio.png)
 
 rollide load ja funktioonid
