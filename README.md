@@ -79,6 +79,11 @@ Analüüsimine on tähtis osa projektist ja kõik ei ole ainult progemine, mõtl
 
 Üks tehniline oskus, mida õppisin ja endas arenadasin on andmebaasi arusaamine ja kavandamine.
 ### Timo Pirn
+Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Joonistan ideed välja.
+
+Üks pehme oskus, mida õppisin ja endas arendasin: Tiimitöö, suhtlus.
+
+Üks tehniline oskus, mida õppisin ja endas arendasin: Jira.
 ### Janar Kuusk
 ### Kevin Zukker
 ### Lisbeth Raielo
