@@ -74,3 +74,8 @@ Analüüsimine on tähtis osa projektist ja kõik ei ole ainult progemine, mõtl
 ### Janar Kuusk
 ### Kevin Zukker
 ### Lisbeth Raielo
+Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides: Projekti alguses korralik planeerimine kuidas asjab peaksid toimima ja väljanägema.
+
+Üks pehme oskus, mida õppisin ja endas arendasin: Tiimitööd.
+
+Üks tehniline oskus, mida õppisin ja endas arendasin: Githubi sisene kood ja andmebaasi kavandamine.
