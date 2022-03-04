@@ -50,8 +50,16 @@ digi tahvel
 
 tava tahvel
 
+draw io
+
+jira
+
+github
+
+slack
+
 ## Aja plaaneerimine
-Aja planeerimist ei olnud vaid lihtsalt tegime kuidas õigeks nägime.
+Aja planeerimise taktika oli see, et võtsime asju lihtsalt järjest ühekaupa kuni kõik sai lõpuni valmis.
 ## Enese analüüsid
 Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 
