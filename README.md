@@ -35,7 +35,7 @@ rollide load ja funktioonid draw io
 
 andmebaasi mudel ja nende vahelised seosed draw io
 
-![ScreenShot](/pildid/Andmebaasi%20mudel%20ja%20seosed%20drawio.png)
+![ScreenShot](/pildid/Andmebaasi%20mudel%20ja%20seosed%20drawiouus.png)
 
 joonistasime vabas vormis wireframe
 ![ScreenShot](/pildid/Wireframe.jpg)
